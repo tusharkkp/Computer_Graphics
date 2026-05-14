@@ -503,7 +503,7 @@ This project is licensed under the **MIT License** - see [LICENSE](LICENSE) for 
 
 ## 👨‍💻 Author & Credits
 
-**Developed by**: [Tushar KP](https://github.com/tusharkkp)
+**Developed by**: [Tushar Kaldate](https://github.com/tusharkkp)
 
 **Inspired by**:
 - Computer Graphics textbooks and research papers
@@ -559,7 +559,6 @@ If you found this project helpful:
 - **Language**: C++ (100%)
 - **Total Implementations**: 30+
 - **Algorithm Coverage**: Line, Circle, Clipping, Transformation, Fill
-- **Code Quality**: Production-grade
 - **Documentation**: Comprehensive
 
 ---
