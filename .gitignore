@@ -1,0 +1,61 @@
+# Compiled Objects
+*.o
+*.obj
+*.out
+*.exe
+*.a
+*.so
+*.dll
+*.dylib
+
+# IDE and Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+*.sublime-project
+*.sublime-workspace
+
+# Build Directories
+build/
+bin/
+dist/
+cmake-build-debug/
+cmake-build-release/
+
+# CMake
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+
+# Dependencies
+.deps/
+.libs/
+vendor/
+
+# Temporary Files
+*.tmp
+*.bak
+*.log
+
+# Environment Variables
+.env
+.env.local
+.env.*.local
+
+# OS-specific
+Thumbs.db
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Python (if any testing scripts)
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# Documentation build
+docs/_build/
